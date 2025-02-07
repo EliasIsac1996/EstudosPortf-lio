@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+"Busco oportunidade como estagiário para aplicar e aprimorar conhecimentos em desenvolvimento de software e controle de projetos, com foco em contribuir para o desenvolvimento de soluções tecnológicas inovadoras."
+
+"Atualmente, estudo desenvolvimento Fullstack e Mobile na Workhover, com foco em desenvolvimento Web."
+
+"Valorizo o trabalho em equipe, cooperando e auxiliando todos os integrantes para alcançar melhorias e sucesso nos projetos. Tenho grande satisfação em aprender e ensinar, sempre visando o crescimento coletivo.
+
+"Sou dedicado e detalhista, comprometido com a excelência e qualidade em todas as tarefas que realizo.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Desenvolvimento WEB e mobile",
+  "Ux",
+  "Design inclusivo",
 ];
 
 /**
